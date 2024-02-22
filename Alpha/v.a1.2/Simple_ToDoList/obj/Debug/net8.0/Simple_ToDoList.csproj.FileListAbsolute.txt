@@ -1,0 +1,14 @@
+D:\Programming\Visual Studio\Simple_ToDoList\Simple_ToDoList\bin\Debug\net8.0\Simple_ToDoList.exe
+D:\Programming\Visual Studio\Simple_ToDoList\Simple_ToDoList\bin\Debug\net8.0\Simple_ToDoList.deps.json
+D:\Programming\Visual Studio\Simple_ToDoList\Simple_ToDoList\bin\Debug\net8.0\Simple_ToDoList.runtimeconfig.json
+D:\Programming\Visual Studio\Simple_ToDoList\Simple_ToDoList\bin\Debug\net8.0\Simple_ToDoList.dll
+D:\Programming\Visual Studio\Simple_ToDoList\Simple_ToDoList\bin\Debug\net8.0\Simple_ToDoList.pdb
+D:\Programming\Visual Studio\Simple_ToDoList\Simple_ToDoList\obj\Debug\net8.0\Simple_ToDoList.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\Visual Studio\Simple_ToDoList\Simple_ToDoList\obj\Debug\net8.0\Simple_ToDoList.AssemblyInfoInputs.cache
+D:\Programming\Visual Studio\Simple_ToDoList\Simple_ToDoList\obj\Debug\net8.0\Simple_ToDoList.AssemblyInfo.cs
+D:\Programming\Visual Studio\Simple_ToDoList\Simple_ToDoList\obj\Debug\net8.0\Simple_ToDoList.csproj.CoreCompileInputs.cache
+D:\Programming\Visual Studio\Simple_ToDoList\Simple_ToDoList\obj\Debug\net8.0\Simple_ToDoList.dll
+D:\Programming\Visual Studio\Simple_ToDoList\Simple_ToDoList\obj\Debug\net8.0\refint\Simple_ToDoList.dll
+D:\Programming\Visual Studio\Simple_ToDoList\Simple_ToDoList\obj\Debug\net8.0\Simple_ToDoList.pdb
+D:\Programming\Visual Studio\Simple_ToDoList\Simple_ToDoList\obj\Debug\net8.0\Simple_ToDoList.genruntimeconfig.cache
+D:\Programming\Visual Studio\Simple_ToDoList\Simple_ToDoList\obj\Debug\net8.0\ref\Simple_ToDoList.dll

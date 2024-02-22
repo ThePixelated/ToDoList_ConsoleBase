@@ -1,0 +1,41 @@
+⌐¬
+
+│
+┤
+
+#╓──────────╖@
+#║           ║@
+#╟──────────╢@
+[1] Add Tasks
+
+/a [new to do list]     - add
+/m [choose to do list]  - mark
+/p [set ... to ]        - priorities
+/e [] - edit to do list
+/c [] - create new note
+/cr   - clear console
+/hp                     - help command
+
+Esc - cancle
+
+/a [new to do list]     - add/m [choose to do list]  - mark/p [set ... to ]        - priorities/e [] - edit to do list/c [] - create new note/hp                     - help command
+
+Esc - cancle
+
+v.a1 (Done)
++ testing many task and profile value
++ added addTask functionality
+
+v.a1.2 (On Going)
++ adding user input prototype
++ adding /hp and /cr availability command
++ adding help menu
+
+v.a1.3 (Not in work)
++ Input system, nge trim input command berdasarkan spasi
++ ngerjain Add system
++ menu / display simple buat main menu
++ menu / display simple buat profile
+
+v.a1.4 (comming soon)
++ ...
